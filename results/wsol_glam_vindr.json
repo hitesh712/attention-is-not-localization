@@ -1,0 +1,20 @@
+{
+  "vindr": {
+    "n_images": 1663,
+    "n_scored": 1363,
+    "n_failed": 0,
+    "failed": [],
+    "pointing": 0.5913426265590609,
+    "iou": 0.25867189816082314,
+    "dice": 0.36894747344436524,
+    "pointing_benign_map": 0.5957446808510638,
+    "pointing_malignant_map": 0.6008804108584006,
+    "pointing_each": {
+      "glam_joint": 0.5517241379310345,
+      "glam_sep": 0.6038151137197358
+    },
+    "lesion_fraction_inside_window": 0.9960774138685338,
+    "pointing_any_finding": 0.6016140865737344,
+    "auc_lesion_vs_normal": 0.8227463927610661
+  }
+}

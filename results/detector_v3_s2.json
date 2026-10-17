@@ -1,0 +1,8 @@
+{
+  "seed": 2,
+  "weights": "G:/My Drive/VS_CC/models/cbis_attention_unet_v3_s2.weights.h5",
+  "test_dice": 0.3489078234746427,
+  "test_dice_sd": 0.33878620854112595,
+  "test_pg": 0.5413533834586466,
+  "n": 399
+}

@@ -1,0 +1,52 @@
+{
+  "n_lesion_images": 1363,
+  "n_lesions": 1679,
+  "n_masses": 1226,
+  "n_calcifications": 543,
+  "n_normals": 300,
+  "detector": "cbis_attention_unet_v3.weights.h5",
+  "delineator": null,
+  "pointing": {
+    "all": 0.5451210564930301,
+    "mass_images": 0.5974842767295597,
+    "calc_only_images": 0.312,
+    "any_finding": 0.5561261922230374,
+    "official_test_split": 0.4965034965034965
+  },
+  "operating_point_thr05": {
+    "sensitivity": 0.4091721262656343,
+    "sensitivity_mass": 0.48613376835236544,
+    "sensitivity_calc": 0.26519337016574585,
+    "fp_per_image": 0.4475421863536317,
+    "fp_per_normal_image": 0.6833333333333333,
+    "normals_with_any_detection": 0.5166666666666667
+  },
+  "detections_per_image": {
+    "mean": 0.9706529713866471,
+    "fallback_images": 397
+  },
+  "froc_local_maxima": {
+    "sens_at_fp_per_image": {
+      "0.125": 0.27814175104228706,
+      "0.25": 0.31745086360929126,
+      "0.5": 0.4032162001191185,
+      "1": 0.47706968433591423,
+      "2": 0.5044669446098868,
+      "4": 0.5044669446098868,
+      "8": 0.5044669446098868
+    },
+    "cpm": 0.4270399047051816,
+    "sens_at_fp_per_normal_image": {
+      "0.125": 0.2555092316855271,
+      "0.25": 0.3025610482430018,
+      "0.5": 0.357355568790947,
+      "1": 0.4324002382370459,
+      "2": 0.5044669446098868,
+      "4": 0.5044669446098868,
+      "8": 0.5044669446098868
+    },
+    "end_fp_per_image": 1.268525311812179,
+    "end_sensitivity": 0.5044669446098868
+  },
+  "box_level": null
+}

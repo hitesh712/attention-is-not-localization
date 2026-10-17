@@ -1,0 +1,7 @@
+{
+  "seed": 2021,
+  "weights": "G:/My Drive/VS_CC/models/cbis_roi_seg_jitter_s2021.weights.h5",
+  "oracle_dice": 0.7691568953125708,
+  "oracle_dice_sd": 0.19892843819242484,
+  "n": 422
+}
