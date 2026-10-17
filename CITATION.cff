@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article below."
+title: "Attention Is Not Localization: code, split files and per-image results"
+type: software
+authors:
+  - family-names: Kag
+    given-names: Hitesh
+    affiliation: Marwadi University
+  - family-names: Shukla
+    given-names: Madhu
+    affiliation: Marwadi University
+  - family-names: Kumar
+    given-names: Dinesh
+    affiliation: Bennett University
+preferred-citation:
+  type: article
+  title: "Attention Is Not Localization: A Leakage-Free, End-to-End Evaluation of Weakly-Supervised and Supervised Breast-Lesion Localization in Mammography"
+  authors:
+    - family-names: Kag
+      given-names: Hitesh
+    - family-names: Shukla
+      given-names: Madhu
+    - family-names: Kumar
+      given-names: Dinesh
+  journal: "IEEE Access"
+  status: submitted

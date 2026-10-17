@@ -1,0 +1,15 @@
+# Trained weights, attached to the GitHub release as assets (verify with: certutil -hashfile <file> SHA256, or sha256sum)
+0ebdd9683ee516e89c705f5d0dd7ab86982f1a503cb5dd4134816d551d0fdef2      32.7 MB  cbis_attention_unet.weights.h5
+89e1b9c08d9c597ab24e61e24fa87df588293e346aba466a57c9211f6c8f84cb      23.3 MB  cbis_attention_unet_v2.weights.h5
+4536746f8de97b497aa82c6c0174555b6fc400e0bc46f05b5299763cf3e27d4d      23.4 MB  cbis_attention_unet_v3.weights.h5
+78fa96d7f5b7c2f78b98e6ee540e2962524755e2b7af2eb91e1a81381da5b4a6      23.4 MB  cbis_attention_unet_v3_s1.weights.h5
+3598d390f7e4a807078766590737698264ba9b9a48b0d3894f3b4cc856519db0      23.4 MB  cbis_attention_unet_v3_s2.weights.h5
+595a2f193f9495d26dc8d74b6548c835cafd9b378095b35bfb7da8b77cbf8830       0.7 MB  cbis_mil.weights.h5
+7397b9561c5c4a6511c6b6e32a93e7170c1555eb5cb5ded0f8e0c88660c1a447      23.4 MB  cbis_roi_seg.weights.h5
+cf50b07b605c15717d9990bf93eec5310e01b95b248e0fc5410ada5886e5edfa      23.4 MB  cbis_roi_seg_jitter_s1.weights.h5
+75ff7a63b711976215cf4115c977e80089711fe250282227cd2f174feede7eca      23.4 MB  cbis_roi_seg_jitter_s2.weights.h5
+b8585bcec2a6b3f9f808fdcca49b062d09720f3eb9c9ffa55d2e9bbe0a9e70ed      23.4 MB  cbis_roi_seg_jitter_s2021.weights.h5
+cd72cbf4067753dbb2cd57a6ac17da9160533be73aab9938851f76d47c6c180d       4.5 MB  efficientnet_cbam_cbis.weights.h5
+9a9b215a8382fb89cae2622d81e62e43040144df4f851ab80c4566d35488c88e      17.6 MB  efficientnet_cbam_cbis_finetuned.weights.h5
+f7721d8431c1656cb0bd08574f37fa14aa11c4638c1629fbfcca7fd8d06db053      99.0 MB  segformer_mit_b2_s0_best.pt
+bcfeafe7ca8ca9343d885ca9fdcc5e9e097a3d6fd922ee5e2f2352506c876cc8     268.3 MB  nnunet_2d_fold0.zip
