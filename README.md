@@ -1,5 +1,5 @@
 # Attention Is Not Localization — code and results
-
+DOI: https://doi.org/10.5281/zenodo.23571756
 Code, split files and per-image / per-lesion outputs for
 
 > H. Kag, M. Shukla and D. Kumar, "Attention Is Not Localization: A Leakage-Free, End-to-End Evaluation of
