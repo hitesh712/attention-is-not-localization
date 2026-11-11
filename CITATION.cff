@@ -2,10 +2,13 @@ cff-version: 1.2.0
 message: "If you use this code or these results, please cite the article below."
 title: "Attention Is Not Localization: code, split files and per-image results"
 type: software
+doi: "10.5281/zenodo.23571756"
+repository-code: "https://github.com/hitesh712/attention-is-not-localization"
 authors:
   - family-names: Kag
     given-names: Hitesh
     affiliation: Marwadi University
+    orcid: "https://orcid.org/0000-0001-5938-9581"
   - family-names: Shukla
     given-names: Madhu
     affiliation: Marwadi University
@@ -23,4 +26,7 @@ preferred-citation:
     - family-names: Kumar
       given-names: Dinesh
   journal: "IEEE Access"
-  status: submitted
+  volume: 14
+  year: 2026
+  doi: "10.1109/ACCESS.2026.3751717"
+  url: "https://ieeexplore.ieee.org/document/11782841"
