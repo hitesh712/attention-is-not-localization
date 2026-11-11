@@ -1,9 +1,13 @@
 # Attention Is Not Localization — code and results
-DOI: https://doi.org/10.5281/zenodo.23571756
-Code, split files and per-image / per-lesion outputs for
+Code, split files and per-image / per-lesion outputs for the article
 
 > H. Kag, M. Shukla and D. Kumar, "Attention Is Not Localization: A Leakage-Free, End-to-End Evaluation of
-> Weakly-Supervised and Supervised Breast-Lesion Localization in Mammography," IEEE Access (under review).
+> Weakly-Supervised and Supervised Breast-Lesion Localization in Mammography," *IEEE Access*, vol. 14, 2026,
+> doi: [10.1109/ACCESS.2026.3751717](https://doi.org/10.1109/ACCESS.2026.3751717).
+
+- **Article (open access):** https://ieeexplore.ieee.org/document/11782841
+- **Archived code and results (Zenodo):** https://doi.org/10.5281/zenodo.23571756
+
 
 Every number in the paper is produced by `revision/make_numbers.py` from the files in `results/`; nothing was
 transcribed by hand.
